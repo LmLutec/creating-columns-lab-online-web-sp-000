@@ -47,7 +47,7 @@ img:hover {
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
-<div class="container">
-  <div class="col col-1">
-  </div>
+.column {
+  border: 1px dashed black;
+}
 /* create your tile classes! we recommend .small .med .large */
